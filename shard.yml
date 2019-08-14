@@ -1,18 +1,18 @@
-name: lillybotcr
-version: 0.0.1
+name: Lillybot
+version: 0.1.0
 
 authors:
-  - Neko Boi Nick <nekoboinick@gmail.com>
+  - thakyZ <thakyz@outlook.com>
 
 targets:
-  lillybotcr:
+  lillybot:
     main: src/lillybot.cr
 
 dependencies:
   discordcr:
     github: z64/discordcr
     branch: master
-  discordcr-plugin
+  discordcr-plugin:
     github: z64/discordcr-plugin
     branch: master
 

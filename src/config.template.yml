@@ -1,0 +1,13 @@
+prefixes:
+  - ">"
+owner_ids:
+  - 0
+embed_colour: 0x00C2FF
+
+shards:
+  token: ""
+  client_id: 0
+  num_shards: 1
+
+logger:
+  severity: info
